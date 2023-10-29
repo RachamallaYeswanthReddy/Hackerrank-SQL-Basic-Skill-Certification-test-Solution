@@ -18,7 +18,7 @@ Feel free to reach out if you have any questions or want to connect.
 
 - GitHub: [GitHub Profile Link](https://github.com/RachamallaYeswanthReddy/)
 - LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/yeswanth-reddy-rachamalla/)
-- Email: [Email Address](yeswanthrachamalla@gmail.com)
+- Email: yeswanthrachamalla@gmail.com
 
 I'm open to networking and discussing SQL or other data-related topics.
 
